@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CleanMvp</string>
+    <string name="menu">菜单</string>
+
+    <string name="sure">确定</string>
+    <string name="alert_get_event">收到其他页面的消息：%s</string>
+    <string name="net_error">网络异常，请检查您的网络</string>
+    <string name="error">出错了</string>
+</resources>
